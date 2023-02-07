@@ -1,5 +1,5 @@
 # Air-quality-prediction-Using-Advanced-Machine-Learning
-# [Project 2: Air-quality-prediction Using Advanced Machine Learning](https://github.com/sbsahane12/Machine-Learning-Projects-for-2023.git) 
+# [Project 2: Air-quality-prediction Using Advanced Machine Learning](https://github.com/sbsahane12/Air-quality-prediction-Using-Advanced-Machine-Learning.git) 
 As air pollution is a complex mixture of toxic components with considerable impact on humans, forecasting air pollution concentration emerges as a priority for improving life quality. So with the help of Python tools and some Machine Learning algorithms, we try to predict the air quality. 
 
 ## Aim :
