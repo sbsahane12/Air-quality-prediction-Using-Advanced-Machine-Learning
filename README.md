@@ -19,8 +19,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 
 ## Models trained on: 
-1. Linear Regression
-2. Xgboost Regressor
-3. Random Forest Regressor
+- TPOTRegressor
+- RepeatedKFold
 
 ****And doing the Hyperameter tuning for the above****
